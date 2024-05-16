@@ -1,0 +1,29 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+}
+img 
+{
+    /* border: 1px solid black; */
+    width: 51%;
+    height: 70vh;
+    display: block;
+}
+
+.imgButton
+{
+    margin: 23px 0px 0px 23px;
+    height: 48px;
+    border-radius: 34px;
+    width: 200px;
+    border: navajowhite;
+    box-shadow: 3px 5px 9px blueviolet;
+    font-size: 22px;
+    font-weight: bold;
+}
+.imgButton:active 
+{
+    box-shadow: none;
+}
